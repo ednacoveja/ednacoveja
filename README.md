@@ -5,15 +5,13 @@
 <br/>
 <img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 
-<h2>🧿Les cuento un poco sobre mi !</h2>
+<h3>🧿Les cuento un poco sobre mi !</h3>
   
-  <h3 align="left"> 
+  <h4 align="left"> 
  Soy Desarrolladora Web Full Stack☄️
   <br/><br/>
     Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas convinaciones (respetando las reglas de lo que uses).
-</h3>
-<br/>
-<br/>
+</h4>
 <br/>
 
 <h3 align="left">Lenguajes y Herramientas que fui aprendiendo:</h3>
@@ -27,16 +25,15 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
+ <br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednacoveja&show_icons=true&theme=dark&locale=en&layout=compact" alt="ednacoveja" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
 
 </br>
 
-<p align="left">
+<h3 align="left">
    🚀Si quieres contactarme...⤵️
-</p>
+</h3>
 
 <p align="left">
   <a href="mailto:ovejerocande@gmail.com" target="_BLANK" alt="Gmail">
