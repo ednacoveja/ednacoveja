@@ -38,12 +38,12 @@
 
   
 <h3>
- 🚀Si quieres contactarme...
+ 🚀Si quieres contactarme...            
   <a href="mailto:ovejerocande@gmail.com" target="_BLANK" alt="Gmail">
-  <img align="right" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
+  <img align="center" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
    <br/>
   <a href="https://www.linkedin.com/in/candelaria-ovejero-9802a9157/"  target="_BLANK" alt="Linkedin">
-  <img align="right" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Linkedin: candelaria ovejero" /></a>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Linkedin: candelaria ovejero" /></a>
 </h3>
 
 
