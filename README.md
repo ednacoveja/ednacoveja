@@ -5,13 +5,16 @@
 <br/>
 <img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 
-<h3>🧿Les cuento un poco sobre mi !</h3>
+<h2>🧿Les cuento un poco sobre mi !</h2>
   
-  <p align="left"> 
+  <h3 align="left"> 
  Soy Desarrolladora Web Full Stack☄️
   <br/><br/>
     Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas convinaciones (respetando las reglas de lo que uses).
-</p>
+</h3>
+<br/>
+<br/>
+<br/>
 
 <h3 align="left">Lenguajes y Herramientas que fui aprendiendo:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
