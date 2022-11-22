@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFSo6vvzkM/WB2B5F8kuM3JudWufUcOyw/view?mode=prototype" alt="Hola,soy Cande!"/>
+<img src="./Presentacion.png" alt="Hola,soy Cande!"/>
 <br/>
 <br/>
 <h1 align="center">💫Bienvenidxs a mi github💫</h1>
