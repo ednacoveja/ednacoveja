@@ -3,15 +3,15 @@
 <br/>
 <h1 align="center">💫Bienvenidxs a mi github💫</h1>
 <br/>
-<img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
+<img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador Full Stack Developer">
 
-<h3>🧿Les cuento un poco sobre mi !</h3>
+<h2>🧿Les cuento un poco sobre mi !</h2>
   
-  <h4 align="left"  text-align:"center"​> 
+  <h3 align="left"  text-align:"center"​> 
  Soy Desarrolladora Web Full Stack☄️
   <br/><br/>
-    Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas convinaciones (respetando las reglas de lo que uses).
-</h4>
+    Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas combinaciones (respetando las reglas de lo que uses).
+</h3>
 <br/>
 
 <h3 align="left">Lenguajes y Herramientas que fui aprendiendo:</h3>
@@ -32,11 +32,11 @@
 </br>
 </br>
 
-<h3 align="left">
+<h3>
    🚀Si quieres contactarme...⤵️
 </h3>
 
-<p align="left">
+<p>
   <a href="mailto:ovejerocande@gmail.com" target="_BLANK" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
 
