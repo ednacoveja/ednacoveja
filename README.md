@@ -1,8 +1,8 @@
 <img src="./Presentacion.png" alt="Hola,soy Cande!"/>
 <br/>
+<br/>
 <h1 align="center">Bienvenidxs a mi github💫</h1>
-
-<br/><br/>
+<br/>
 <img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 
 <h3>🧿Les cuento un poco sobre mi !</h3>
