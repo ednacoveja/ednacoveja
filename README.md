@@ -2,8 +2,9 @@
 <br/>
 <h1 align="center">Bienvenidxs a mi github💫</h1>
 
-<img src="https://st3.depositphotos.com/1062624/19503/i/450/depositphotos_195039256-stock-photo-best-internet-concept-of-global.jpg" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 <br/><br/>
+<img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
+
 <h3>🧿Les cuento un poco sobre mi !</h3>
   
   <p align="left"> 
