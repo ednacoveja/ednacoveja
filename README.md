@@ -7,7 +7,7 @@
 
 <h3>🧿Les cuento un poco sobre mi !</h3>
   
-  <h4 align="left"> 
+  <h4 align="left"  text-align:"center"​> 
  Soy Desarrolladora Web Full Stack☄️
   <br/><br/>
     Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas convinaciones (respetando las reglas de lo que uses).
@@ -26,9 +26,10 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednacoveja&show_icons=true&theme=dark&locale=en&layout=compact" alt="ednacoveja" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednacoveja&show_icons=true&theme=dark&locale=en&layout=compact" alt="ednacoveja" />
+&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
 
+</br>
 </br>
 
 <h3 align="left">
