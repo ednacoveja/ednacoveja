@@ -13,7 +13,7 @@
     Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas combinaciones (respetando las reglas de lo que uses).
 </h4>
 
-<h2 align="left">Lenguajes y Herramientas que fui aprendiendo:</h2>
+<h4 align="left">Lenguajes y Herramientas que fui aprendiendo:</h4>
 <p align="left">  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
@@ -41,7 +41,7 @@
  🚀Si quieres contactarme...⤵️
  </br>
  </br>
-  <p aling="center">
+  <p align="center">
   <a href="mailto:ovejerocande@gmail.com" target="_BLANK" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
 
