@@ -30,8 +30,8 @@
 <br/>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednacoveja&show_icons=true&theme=dark&locale=en&layout=compact" alt="ednacoveja" />
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ednacoveja&show_icons=true&theme=dark&locale=en&layout=compact" alt="ednacoveja" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ednacoveja&show_icons=true&theme=highcontrast&title_color=cfd147&locale=en" alt="ednacoveja" /></p>
 
 </br>
 </br>
