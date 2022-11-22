@@ -1,16 +1,16 @@
 <img src="./Presentacion.png" alt="Hola,soy Cande!"/>
 <br/>
 <br/>
-<h1 align="center">Bienvenidxs a mi github💫</h1>
+<h1 align="center">💫Bienvenidxs a mi github💫</h1>
 <br/>
 <img src="./imagen.png" min-width="400px" max-width="400px" width="400px" align="right" margin="0 0 50px 0" alt="Computador iuriCode">
 
-<h3>   🧿Les cuento un poco sobre mi !</h3>
+<h3>🧿Les cuento un poco sobre mi !</h3>
   
   <p align="left"> 
  Soy Desarrolladora Web Full Stack☄️
   <br/><br/>
-    Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas convinaciones (respetando las reglas de lo que uses)
+    Lo que me atrae de la programacion es la logica que hay detras de cualquier lenguaje, y a partir de ahi poder crear infinitas convinaciones (respetando las reglas de lo que uses).
 </p>
 
 <h3 align="left">Lenguajes y Herramientas que fui aprendiendo:</h3>
@@ -31,23 +31,16 @@
 
 </br>
 
-
-## :paperclip: How to reach me:
-<span >
-<a href="https://www.linkedin.com/in/candelaria-ovejero-9802a9157/" ><img width="5%" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN"> &nbsp;
-<a href="mailto:ovejerocande@gmail.com" ><img width="5%" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL">
-</span>
-
 <p align="left">
-  💌 Puedes contactarme aquí: ⤵️
+   🚀Si quieres contactarme...⤵️
 </p>
 
 <p align="left">
-  <a href="mailto:leo013contreras@gmail.com" target="_BLANK" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="leo013contreras@gmail.com | Mail" /></a>
+  <a href="mailto:ovejerocande@gmail.com" target="_BLANK" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/leo-pe%C3%B1a/"  target="_BLANK" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="@Leonardo Peña | Linkedin" /></a>
+  <a href="https://www.linkedin.com/in/candelaria-ovejero-9802a9157/"  target="_BLANK" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="Linkedin: candelaria ovejero" /></a>
 
 </p>
 
