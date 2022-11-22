@@ -38,10 +38,8 @@
 
   
 <h3>
- 🚀Si quieres contactarme...⤵️
- </br>
- </br>
-  <p flexbox="display" align="center">
+ 🚀Si quieres contactarme...
+  <p align="center">
   <a href="mailto:ovejerocande@gmail.com" target="_BLANK" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" alt="Mail: ovejerocande@gmail.com" /></a>
 
